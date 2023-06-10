@@ -26,7 +26,6 @@ jobs:
 
           # Options
           user: alecsilva
-          filename: github-metrics.svg
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Lima
